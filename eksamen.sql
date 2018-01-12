@@ -78,3 +78,5 @@ INSERT INTO eksamen VALUES(3, 2, STR_TO_DATE('10-12-2015','%e-%c-%Y'), 2);
 INSERT INTO eksamen VALUES(3, 2, STR_TO_DATE('12-05-2015','%e-%c-%Y'), 4);
 
 COMMIT;
+
+hei
